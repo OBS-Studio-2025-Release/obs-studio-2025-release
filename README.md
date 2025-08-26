@@ -25,14 +25,6 @@ It works on Windows 11/10 and is widely used by streamers on Twitch, YouTube, an
 
 ---
 
-### 🧪 Usage Guide
-1. Download `OBS_Studio_2025.zip`  
-2. Extract files and run `Setup.exe`  
-3. Follow the installation wizard  
-4. Launch OBS → Start recording or streaming ✅  
-
----
-
 ### 🏆 Benefits
 - Professional streaming without cost  
 - Record HD videos directly from desktop  
